@@ -1,2 +1,2 @@
 # Web-Design-Projects-Figma-
-Web Design Projects Using Figma
+Web design projects using Figma
